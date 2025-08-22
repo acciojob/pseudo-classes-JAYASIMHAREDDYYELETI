@@ -1,1 +1,35 @@
-/*  your css code here. If applicable */
+#coin{
+	background-color:rgb(135, 206, 235);
+	
+}
+.j{
+	width:50%;
+	padding:10px;
+	margin:10px
+}
+.jai1{
+	background-color:white;
+}
+.jai2{
+	background-color:gray;
+}
+.jai3{
+	background-color:pink;
+}
+.jai4{
+	background-color:gray;
+}
+.jai5{
+	background-color:white;
+}
+.la:first-child{
+	color:white;
+	background-color:black;
+}
+.ma{
+	color:red;
+}
+
+
+
+
